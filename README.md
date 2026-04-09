@@ -57,6 +57,7 @@ No suitable BSSes found
   ```bash
   systemctl restart iwd
 ````
+````
 
 This setup worked **reliably on every boot with iwd 3.11-2**.
 
